@@ -1,0 +1,20 @@
+HRM
+
+Platform : HTML5 CSS3 LESS SASS AngularJS 1.x Photoshop, Material
+Backend: Nodjs, MongoDB, GIT, GRUNT, Webpacks
+
+Modules
+
+1.Admin Panel [8hrs]
+  	> Dashboard
+	> Auth Process
+	> Side Navbar - 
+
+2.Personal Information Management[4hrs]
+	> Employee Details
+
+3.Leave Module [4hrs]
+4.Time Module
+5.Employee Self Service Module
+6.Recruitment/ Applicant Tracking Module
+7.Performance Module
